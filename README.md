@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xPatryczek
 - 👀 I’m interested in IT 
-- 🌱 I’m currently learning Py
+- 🌱 Py, Cobol programmer
 
 
 <!---
